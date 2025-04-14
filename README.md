@@ -1,6 +1,6 @@
 # 🚀 **WebWars_PureIsh**  
 
-## 📌 **Project Title:** *To be uploaded soon*  
+## 📌 **Project Title:** *IEEE-2025 WEBSITE*  
 
 ## 👥 **Team Name & Members**  
 - **🛡️ Team Name:** PureIsh  
